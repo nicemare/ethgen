@@ -6,17 +6,17 @@ require :
 # How to run
 
 ```
-$ git clone https://github.com/nicemare/ethgen
+git clone https://github.com/nicemare/ethgen
 ```
 ```
-$ cd ethgen
+cd ethgen
 ```
 ```
-$ npm install fs
+npm install fs
 ```
 ```
-$ npm install ethers
+npm install ethers
 ```
 ```
-$ node index.js
+node index.js
 ```
