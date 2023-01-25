@@ -1,25 +1,3 @@
-# ethgen
-eth wallet generator
-require :
-* https://nodejs.org/en/
-
-# How to run
-
-```
-git clone https://github.com/nicemare/ethgen
-```
-```
-cd ethgen
-```
-```
-npm install fs
-```
-```
-npm install ethers
-```
-```
-node index.js
-```
 # Ethereum Wallet Generator
 This code generates random Ethereum wallets and saves the address, mnemonic phrase, and private key to a file named "wallet.txt". It also prints the address and mnemonic phrase to the console. The user is prompted to enter the number of wallets they want to generate.
 
