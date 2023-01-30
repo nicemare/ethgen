@@ -1,4 +1,4 @@
-# Ethereum Wallet Generator
+# Ethereum Wallet Generator and Balance Checker
 This code generates random Ethereum wallets and saves the address, mnemonic phrase, and private key to a file named "wallet.txt". It also prints the address and mnemonic phrase to the console. The user is prompted to enter the number of wallets they want to generate.
 
 ## Prerequisites
